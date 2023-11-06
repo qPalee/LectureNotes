@@ -16,31 +16,19 @@
             }
           },
           {
-            "id": "8600c973d49c60ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year2/Sem1/OSSP/Week1/Lecture Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c543548637e5ed14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year2/Sem1/OSSP/Week1/Lecture Notes.md",
+                "file": "Year2/Sem1/OSSP/Week7/MemoryManagement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year2/Sem1/OSSP/Week1/Lecture Notes.md",
+                "file": "Year2/Sem1/OSSP/Week7/MemoryManagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year2/Sem1/OSSP/Week1/Lecture Notes.md",
+                "file": "Year2/Sem1/OSSP/Week7/MemoryManagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year2/Sem1/OSSP/Week1/Lecture Notes.md"
+                "file": "Year2/Sem1/OSSP/Week7/MemoryManagement.md"
               }
             }
           }
@@ -167,8 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2196441a50170198",
+  "active": "c543548637e5ed14",
   "lastOpenFiles": [
+    "Pasted image 20231106182844.png",
+    "Year2/Sem1/OSSP/Week7/MemoryManagement.md",
+    "Year2/Sem1/OSSP/Week7",
+    "Year2/Sem1/OSSP/Week1/Lecture Notes.md",
     "Year1/Sem1/MLFCS/Maths/Vectors/Span.md",
     "Year1/Sem1/MLFCS/Maths/Vectors/Products.md",
     "Year1/Sem1/MLFCS/Maths/Vectors/LinearDependence.md",
@@ -192,9 +184,6 @@
     "Year1/Sem1/MLFCS/Maths/Matrix/Identity.md",
     "Year1/Sem1/MLFCS/Maths/Matrix/Definition.md",
     "Year1/Sem1/MLFCS/Maths/Matrix/Addition.md",
-    "Year1/Sem1/MLFCS/Logic/Propositional/Syntax.md",
-    "Year1/Sem1/MLFCS/Logic/Propositional/Semantics.md",
-    "Year1/Sem1/MLFCS/Logic/Propositional/SAT.md",
     "Year1/Sem1/MLFCS/Maths/Vectors",
     "Year1/Sem1/MLFCS/Maths/Sets",
     "Year1/Sem1/MLFCS/Maths/Numbers",
@@ -203,7 +192,6 @@
     "Year1/Sem1/MLFCS/Logic/Predicate",
     "Year1/Sem2/AI/Searches",
     "Year1/Sem1/MLFCS/Maths",
-    "Year1/Sem1/MLFCS/Logic",
-    "Year1/Sem1/DSA/SortingAlgorithms"
+    "Year1/Sem1/MLFCS/Logic"
   ]
 }
