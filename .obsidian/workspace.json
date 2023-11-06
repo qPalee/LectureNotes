@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "8e52428a5f3b28bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "312340257b9742ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e8e8ef09846546",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8600c973d49c60ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year2/Sem1/OSSP/Week1/Lecture Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c543548637e5ed14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year2/Sem1/OSSP/Week1/Lecture Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7034abc7011289a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "82adde8ecac2fb4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2196441a50170198",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f53583d60883393b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43945da940c52c8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3dbbdef01faca33",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba260b51da420ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef75fe850f42e5ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Year2/Sem1/OSSP/Week1/Lecture Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fff86ac7ea8cc00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Year2/Sem1/OSSP/Week1/Lecture Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3987e73f6b86ac66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6a4441727c33a90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Year2/Sem1/OSSP/Week1/Lecture Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2196441a50170198",
+  "lastOpenFiles": [
+    "Year1/Sem1/MLFCS/Maths/Vectors/Span.md",
+    "Year1/Sem1/MLFCS/Maths/Vectors/Products.md",
+    "Year1/Sem1/MLFCS/Maths/Vectors/LinearDependence.md",
+    "Year1/Sem1/MLFCS/Maths/Vectors/Basis.md",
+    "Year1/Sem1/MLFCS/Maths/Sets/Subsets.md",
+    "Year1/Sem1/MLFCS/Maths/Sets/Sets.md",
+    "Year1/Sem1/MLFCS/Maths/Sets/SetBuilderNotation.md",
+    "Year1/Sem1/MLFCS/Maths/Sets/Relations.md",
+    "Year1/Sem1/MLFCS/Maths/Sets/InverseFunctions.md",
+    "Year1/Sem1/MLFCS/Maths/Sets/Functions.md",
+    "Year1/Sem1/MLFCS/Maths/Sets/Endorelations.md",
+    "Year1/Sem1/MLFCS/Maths/Numbers/Operations.md",
+    "Year1/Sem1/MLFCS/Maths/Numbers/NumberBases.md",
+    "Year1/Sem1/MLFCS/Maths/Numbers/NaturalNumbers.md",
+    "Year1/Sem1/MLFCS/Maths/Numbers/Integers.md",
+    "Year1/Sem1/MLFCS/Maths/Numbers/InclusiveExclusive.md",
+    "Year1/Sem1/MLFCS/Maths/Numbers/ComplementNotation.md",
+    "Year1/Sem1/MLFCS/Maths/Numbers/0^0.md",
+    "Year1/Sem1/MLFCS/Maths/Matrix/Multiplication.md",
+    "Year1/Sem1/MLFCS/Maths/Matrix/Inverse.md",
+    "Year1/Sem1/MLFCS/Maths/Matrix/Identity.md",
+    "Year1/Sem1/MLFCS/Maths/Matrix/Definition.md",
+    "Year1/Sem1/MLFCS/Maths/Matrix/Addition.md",
+    "Year1/Sem1/MLFCS/Logic/Propositional/Syntax.md",
+    "Year1/Sem1/MLFCS/Logic/Propositional/Semantics.md",
+    "Year1/Sem1/MLFCS/Logic/Propositional/SAT.md",
+    "Year1/Sem1/MLFCS/Maths/Vectors",
+    "Year1/Sem1/MLFCS/Maths/Sets",
+    "Year1/Sem1/MLFCS/Maths/Numbers",
+    "Year1/Sem1/MLFCS/Maths/Matrix",
+    "Year1/Sem1/MLFCS/Logic/Propositional",
+    "Year1/Sem1/MLFCS/Logic/Predicate",
+    "Year1/Sem2/AI/Searches",
+    "Year1/Sem1/MLFCS/Maths",
+    "Year1/Sem1/MLFCS/Logic",
+    "Year1/Sem1/DSA/SortingAlgorithms"
+  ]
+}
