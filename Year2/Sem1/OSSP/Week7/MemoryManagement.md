@@ -64,3 +64,6 @@ Paging is when you assign memory of a fixed size
 
 <span style="color:#ff0000">Hardware support mandatory for paging</span>
 
+
+
+![[pageTable.png]]

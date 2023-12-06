@@ -2,7 +2,7 @@
   "favoriteColors": [
     "#ff0000",
     "#00bfff",
-    "#ffc000",
+    "#00fc00",
     "#ffff00",
     "#92d050",
     "#00b050",
@@ -14,10 +14,10 @@
   "colorArr": [
     "#00bfff",
     "#ff0000",
-    "#000000",
+    "#00fc00",
     "#000000",
     "#000000"
   ],
-  "colorCellCount": "2",
+  "colorCellCount": "3",
   "hidePlugin": false
 }

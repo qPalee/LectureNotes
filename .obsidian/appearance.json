@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Dekurai"
+  "cssTheme": "Dekurai",
+  "enabledCssSnippets": [
+    "codeBlock"
+  ]
 }

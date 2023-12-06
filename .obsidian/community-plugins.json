@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "colored-text"
+  "colored-text",
+  "dataview",
+  "templater-obsidian"
 ]

@@ -1,4 +1,8 @@
 {
   "promptDelete": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "trashOption": "none",
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "foldHeading": false
 }
