@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year2/Sem1/OSSP/Week8/Scheduling.md",
+                "file": "Year2/Sem1/FunctionalProgramming/Week9/Monads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "926c16d04b5f0b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ScrapNote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f9408a0d854b510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PhantomWallet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "894e01a502b39734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year2/Sem2/TeamProject/Week3/Agile.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year2/Sem1/OSSP/Week8/Scheduling.md",
+                "file": "Year2/Sem2/TeamProject/Week3/Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year2/Sem1/OSSP/Week8/Scheduling.md",
+                "file": "Year2/Sem2/TeamProject/Week3/Agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year2/Sem1/OSSP/Week8/Scheduling.md"
+                "file": "Year2/Sem2/TeamProject/Week3/Agile.md"
               }
             }
           }
@@ -147,47 +184,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a367ae062bf31081",
+  "active": "894e01a502b39734",
   "lastOpenFiles": [
-    "Year2/Sem1/FunctionalProgramming/Week11/CreatingLanguages.md",
+    "Year2/Sem2/AI2/Week2/InformationTheory.md",
+    "Year2/Sem2/TeamProject/Week3/Agile.md",
+    "Year2/Sem2/TeamProject/Week3",
+    "Year2/Sem2/AI2/Week2",
+    "Year2/Sem2/AI2/Week2/LogisticRegression.md",
+    "PhantomWallet.md",
+    "Year2/Sem1/OSSP/Week9/MutualExclusion.md",
+    "ScrapNote.md",
+    "Year2/Sem1/FunctionalProgramming/Week9/Monads.md",
+    "Year2/Sem2/Security+Networks",
+    "Year2/Sem2/AI2",
+    "Year2/Sem2/TeamProject",
+    "DailyNotes/23/12/07-12-23.md",
+    "Year2/Sem1/FunctionalProgramming/Week8/BSTs.md",
+    "DailyNotes/23/12",
+    "Year2/Sem1/FunctionalProgramming/Week7/ListsRevisited.md",
+    "Year2/Sem1/FunctionalProgramming/Week7/BinaryTrees.md",
+    "Year2/Sem1/FunctionalProgramming/Week10/DefiningMonads.md",
+    "Year2/Sem1/FunctionalProgramming/Week8/MoreBinaryTrees.md",
     "Year2/Sem1/OSSP/Week8/Scheduling.md",
+    "Year2/Sem1/FunctionalProgramming/Week11/CreatingLanguages.md",
     "Year2/Sem1/FunctionalProgramming/Week11",
     "Year2/Sem1/OSSP/Week8/Processes.md",
     "Year2/Sem1/OSSP/Week11/Semaphores.md",
     "Year2/Sem1/SEPP/Requirements.md",
     "Year2/Sem1/OSSP/Week11",
-    "Year2/Sem1/FunctionalProgramming/Week7/BinaryTrees.md",
     "Year2/Sem1/SEPP/oldB2UseCases.md",
-    "Year2/Sem1/FunctionalProgramming/Week10/DefiningMonads.md",
-    "Year2/Sem1/FunctionalProgramming/Week9/Monads.md",
     "Year2/Sem1/OSSP/Week10/DeviceDrivers.md",
     "Year2/Sem1/FunctionalProgramming/Week10",
-    "Year2/Sem1/OSSP/Week9/MutualExclusion.md",
     "Year2/Sem1/OSSP/Week10/FileSystems.md",
     "Year2/Sem1/OSSP/Week10/attachments/Pasted image 20231127112344.png",
     "Year2/Sem1/OSSP/Week10/attachments",
-    "Year2/Sem1/OSSP/Week10",
-    "Year2/Sem1/FunctionalProgramming/Week8/BSTs.md",
-    "Year2/Sem1/FunctionalProgramming/Week8/MoreBinaryTrees.md",
     "Year2/Sem1/SEPP/Draft.md",
     "DailyNotes/23/11/24-11-23.md",
     "Year2/Sem1/SEPP/Feedback.md",
-    "Year2/Sem1/FunctionalProgramming/Week9",
     "Year2/Sem1/OSSP/Week9/attachments/Pasted image 20231120122332.png",
     "Year2/Sem1/OSSP/Week9/attachments/Pasted image 20231120121603.png",
-    "Year2/Sem1/OSSP/Week9/attachments",
     "DailyNotes/23/11/15-11-23.md",
-    "Year2/Sem1/OSSP/Week9",
-    "Year2/Sem1/FunctionalProgramming/Week7/ListsRevisited.md",
-    "Year2/Sem1/FunctionalProgramming/Week8",
     "Year2/Sem1/OSSP/Week7/MemoryManagement.md",
-    "Year1/Sem2/ToC/Automata.md",
-    "Year1/Sem2/ToC/Regexp.md",
-    "Year1/Sem2/AI/Searches/Breadth-First.md",
-    "Year1/Sem2/AI/Searches/Performance.md",
-    "Year1/Sem2/AI/Searches/Uninformed.md",
-    "Year1/Sem2/AI/Searches/Formulation.md",
-    "Year2/Sem1/OSSP/Week8",
     "Year2/Sem1/OSSP/Week7/attachments/pageTable.png",
     "Pasted image 20231106182844.png"
   ]

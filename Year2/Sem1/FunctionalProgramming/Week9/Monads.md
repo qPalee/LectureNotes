@@ -163,7 +163,7 @@ We use the function <span style="color:#00bfff">runState</span> to initialise th
 We can simulate the Java method by using the <span style="color:#00bfff">state</span> monad. We use a pair `(x, y)` for the state. The return of the helper function is `()` because we only care about the state. The initial state is `(0, 1`
 ```haskell
 fib' :: Integer -> Integer
-fib' n = x
+fib' n = x`
  where
   f :: Integer -> State (Integer, Integer) ()
   f 0 = pure ()
