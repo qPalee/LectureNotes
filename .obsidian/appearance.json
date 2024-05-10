@@ -3,5 +3,6 @@
   "cssTheme": "Dekurai",
   "enabledCssSnippets": [
     "codeBlock"
-  ]
+  ],
+  "baseFontSize": 16
 }

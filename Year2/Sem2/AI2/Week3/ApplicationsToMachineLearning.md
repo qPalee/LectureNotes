@@ -21,7 +21,6 @@ $I(X;Y)\equiv H(X)-H(X|Y)$
 			$\equiv H(Y)-H(Y|X)$
 
 ##### Mutual Information feature selection
-Use mutual information to choose an optimal set of independent variables, called features that allow us to classify samples. Formally, given an initial set $F$ with $n$ independent variables, **X**=$\{X_1, X_2,...,X_n\}$, find subset with $S \subset F$ features that maximises the Mutual Information $I(Y;S)$ between the dependant variable Y and the subset of selected features 
+Use mutual information to choose an optimal set of independent variables, called features that allow us to classify samples. Formally, given an initial set $F$ with $n$ independent variables, **X**=$\{X_1, X_2,...,X_n\}$, find subset with $S \subset F$ features that maximises the Mutual Information $I(Y;S)$ between the dependant variable $Y$ and the subset of selected features $S$
+
 ![[Pasted image 20240202112011.png]]
-
-

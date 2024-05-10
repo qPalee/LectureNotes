@@ -50,7 +50,7 @@ $$J(\theta, D)=-log(L(\theta \space | \space D))$$
 - By convention, many optimisation problems are minimisation problems
 
 <span style="color:#00bfff">Convenience:</span>
-- Taking the logarithm changes multiplication to addition - $log(AB) = log(A) + log(B)$ - which is easier to differentiate
+- Taking the logarithm changes multiplication to addition -- $log(AB) = log(A) + log(B)$ -- which is easier to differentiate
 
 <span style="color:#00bfff">Numerically stable:</span>
 - Product of $\theta$, which is a probability will converge quickly to zero, which might cause problems for computers who are limited by machine precision

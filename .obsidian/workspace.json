@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year2/Sem2/Security+Networks/Week5/Networking.md",
+                "file": "Year2/Sem2/Security+Networks/Revision/Week5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year2/Sem2/Security+Networks/Week5/Networking.md",
+                "file": "Year2/Sem2/Security+Networks/Revision/Week5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year2/Sem2/Security+Networks/Week5/Networking.md",
+                "file": "Year2/Sem2/Security+Networks/Revision/Week5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year2/Sem2/Security+Networks/Week5/Networking.md"
+                "file": "Year2/Sem2/Security+Networks/Revision/Week5.md"
               }
             }
           }
@@ -149,51 +149,51 @@
   },
   "active": "894e01a502b39734",
   "lastOpenFiles": [
+    "Year2/Sem2/Security+Networks/Revision/Week4.md",
+    "Year2/Sem2/Security+Networks/Revision/Week2.md",
+    "Year2/Sem2/Security+Networks/Revision/Lecture.md",
+    "Year2/Sem2/Security+Networks/Revision/Week5.md",
+    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240510132431.png",
     "Year2/Sem2/Security+Networks/Week5/Protocols.md",
-    "Year2/Sem2/Security+Networks/Week5/Networking.md",
-    "Year2/Sem2/AI2/Week2/InformationTheory.md",
-    "Year2/Sem2/Security+Networks/Week5",
-    "Year2/Sem2/AI2/Week2/attachments/Pasted image 20240212144620.png",
-    "Year2/Sem2/AI2/Week2/attachments/Pasted image 20240212143456.png",
-    "Year2/Sem2/AI2/Week2/attachments",
-    "Year2/Sem2/TeamProject/Week5/S2-M2.md",
-    "Year2/Sem2/TeamProject/Week5/attachments/Pasted image 20240212113156.png",
-    "Year2/Sem2/AI2/Week2/LogisticRegression.md",
-    "Year2/Sem2/AI2/Week1/MaximumLikelihood.md",
-    "Year2/Sem2/AI2/Week1/attachments/Pasted image 20240212132914.png",
-    "Year2/Sem2/AI2/Week1/attachments/Pasted image 20240212132851.png",
-    "Year2/Sem2/AI2/Week1/attachments/Pasted image 20240212131134.png",
-    "Year2/Sem2/AI2/Week1/attachments",
-    "Year2/Sem2/AI2/Week1",
-    "Year2/Sem2/TeamProject/Week5/attachments",
-    "Year2/Sem2/AI2/Week4/BayesTheorem.md",
-    "Year2/Sem2/TeamProject/Week5",
-    "Year2/Sem2/AI2/Week3/ApplicationsToMachineLearning.md",
-    "Year2/Sem2/Security+Networks/Assignments/Ass2.md",
-    "Year2/Sem2/AI2/Week4/attachments/Pasted image 20240209101625.png",
-    "Year2/Sem2/AI2/Week4/attachments/Pasted image 20240209101512.png",
-    "Year2/Sem2/AI2/Week4/attachments",
-    "Year2/Sem2/AI2/Week4.md",
-    "Year2/Sem2/AI2/Week4",
-    "Year1/Sem2/AI/Searches/Uninformed.md",
-    "Year2/Sem2/Security+Networks/Assignments",
-    "Year1/Sem2/AI/Searches/Performance.md",
-    "Year1/Sem2/AI/Searches/Formulation.md",
-    "Year1/Sem2/AI/Searches/Breadth-First.md",
-    "Year1/Sem1/MLFCS/Maths/Sets/Sets.md",
-    "Year1/Sem1/MLFCS/Maths/Sets/SetBuilderNotation.md",
-    "Year1/Sem1/MLFCS/Maths/Sets/Relations.md",
-    "Year1/Sem1/MLFCS/Maths/Sets/InverseFunctions.md",
-    "Year1/Sem1/MLFCS/Maths/Sets/Functions.md",
-    "Year1/Sem1/MLFCS/Maths/Sets/Endorelations.md",
-    "Year1/Sem1/MLFCS/Maths/Vectors/Products.md",
-    "Year1/Sem1/MLFCS/Maths/Vectors/Span.md",
-    "Year1/Sem1/MLFCS/Maths/Vectors/LinearDependence.md",
-    "Year1/Sem1/MLFCS/Maths/Vectors/Basis.md",
-    "Year1/Sem1/MLFCS/Maths/Numbers/Operations.md",
-    "Year1/Sem1/MLFCS/Maths/Numbers/NumberBases.md",
-    "Year2/Sem2/TeamProject/meetings",
-    "Year2/Sem2/Security+Networks/Week4/attachments/Pasted image 20240205154425.png",
-    "Year2/Sem2/Security+Networks/Week4/attachments/Pasted image 20240205152948.png"
+    "Year2/Sem2/Security+Networks/Revision/Week7.md",
+    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240510125425.png",
+    "Year2/Sem2/Security+Networks/Revision/Week8.md",
+    "Year2/Sem2/Security+Networks/Revision/Week6.md",
+    "Year2/Sem2/Security+Networks/Week4/RSA-Encryption.md",
+    "Year2/Sem2/Security+Networks/Revision/Week3.md",
+    "Year2/Sem2/Security+Networks/Revision/Week10.md",
+    "Year2/Sem2/Security+Networks/Week3/SymmetricKeyCryptography.md",
+    "CSS/cmt-names-2024-25.md",
+    "CSS/PGT_Rep_Bio.md",
+    "CSS/AgendaChanges.md",
+    "Year2/Sem2/AI2/Revision/Equations.md",
+    "Year2/Sem1/OSSP/Revision/Week4.md",
+    "Year2/Sem1/OSSP/Revision/Week1.md",
+    "Year2/Sem2/AI2/Revision/Week9.md",
+    "Year2/Sem2/AI2/Revision/Week10.md",
+    "Year2/Sem2/AI2/Revision/attachments/Pasted image 20240507103932.png",
+    "Year2/Sem2/AI2/Revision/attachments/Pasted image 20240507103745.png",
+    "Year2/Sem2/AI2/Revision/attachments/Pasted image 20240506154652.png",
+    "Year2/Sem2/AI2/Revision/Week3.md",
+    "Year2/Sem2/AI2/Revision/Week8.md",
+    "Year2/Sem2/AI2/Revision/Week2.md",
+    "Year2/Sem2/AI2/Revision/attachments/Pasted image 20240506154306.png",
+    "Year2/Sem2/AI2/Revision/attachments/Pasted image 20240506154251.png",
+    "Year2/Sem2/AI2/Revision/Week1.md",
+    "Year2/Sem2/AI2/Revision/Exercise Sheets.md",
+    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240506152341.png",
+    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240506143940.png",
+    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240506141433.png",
+    "Year2/Sem2/Security+Networks/Revision/attachments",
+    "Year2/Sem2/AI2/Revision/Lecture.md",
+    "Year2/Sem2/AI2/Revision/attachments",
+    "Year2/Sem1/OSSP/Revision",
+    "Year2/Sem2/AI2/Revision",
+    "Year2/Sem2/Security+Networks/Revision",
+    "Year2/Sem2/Security+Networks/Week10",
+    "Year2/Sem2/AI2/Week9",
+    "Year2/Sem2/Security+Networks/Week9",
+    "Year2/Sem2/AI2/Week8",
+    "CSS"
   ]
 }
