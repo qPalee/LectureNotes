@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "312340257b9742ee",
+        "id": "ffebf0d6c9d283e6",
         "type": "tabs",
         "children": [
           {
-            "id": "894e01a502b39734",
+            "id": "dc4f8edb3ff2a090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year2/Sem2/Security+Networks/Revision/Week5.md",
+                "file": "Year3/Sem1/Security/Week1/reverse-engineering-binaries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year2/Sem2/Security+Networks/Revision/Week5.md",
+                "file": "Year3/Sem1/Security/Week1/reverse-engineering-binaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year2/Sem2/Security+Networks/Revision/Week5.md",
+                "file": "Year3/Sem1/Security/Week1/reverse-engineering-binaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year2/Sem2/Security+Networks/Revision/Week5.md"
+                "file": "Year3/Sem1/Security/Week1/reverse-engineering-binaries.md"
               }
             }
           }
@@ -147,53 +147,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "894e01a502b39734",
+  "active": "dc4f8edb3ff2a090",
   "lastOpenFiles": [
-    "Year2/Sem2/Security+Networks/Revision/Week4.md",
-    "Year2/Sem2/Security+Networks/Revision/Week2.md",
-    "Year2/Sem2/Security+Networks/Revision/Lecture.md",
-    "Year2/Sem2/Security+Networks/Revision/Week5.md",
-    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240510132431.png",
-    "Year2/Sem2/Security+Networks/Week5/Protocols.md",
-    "Year2/Sem2/Security+Networks/Revision/Week7.md",
-    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240510125425.png",
-    "Year2/Sem2/Security+Networks/Revision/Week8.md",
-    "Year2/Sem2/Security+Networks/Revision/Week6.md",
-    "Year2/Sem2/Security+Networks/Week4/RSA-Encryption.md",
-    "Year2/Sem2/Security+Networks/Revision/Week3.md",
-    "Year2/Sem2/Security+Networks/Revision/Week10.md",
-    "Year2/Sem2/Security+Networks/Week3/SymmetricKeyCryptography.md",
-    "CSS/cmt-names-2024-25.md",
+    "Year3/Sem1/Networking/Week1/Lecture.md",
+    "Year3/Sem1/Networking/Week1/attachments/Pasted image 20241004092726.png",
+    "Year3/Sem1/Networking/Week1/attachments",
+    "Year3/Sem1/PDPDI/Haskell/Week1/Lecture.md",
+    "Year3/Sem1/Security/Week1/arm-assembly.md",
+    "Year3/Sem1/Security/Week1/reverse-engineering-binaries.md",
+    "Year3/Sem1/Security/Week1/attachments/Pasted image 20241003134208.png",
+    "CSS/Guild-Newsletter-Email.md",
+    "Year3/Sem1/Security/Week1/attachments/Pasted image 20241002183220.png",
+    "Year3/Sem1/Networking/Week1",
+    "Year3/Sem1/Security/Week1/attachments/Pasted image 20240930153043.png",
+    "Year3/Sem1/Security/Week1/attachments/Pasted image 20240930152513.png",
+    "Year3/Sem1/Security/Week1/attachments",
+    "PhantomWallet.md",
+    "HetznerKey.md",
+    "CSS/draft-email.md",
+    "Year3/Sem1/Security/Week1",
+    "CSS/Soceities-Night.md",
     "CSS/PGT_Rep_Bio.md",
+    "CSS/cmt-names-2024-25.md",
     "CSS/AgendaChanges.md",
-    "Year2/Sem2/AI2/Revision/Equations.md",
+    "Year3/Sem1/PDPDI/Haskell/Week1.md",
+    "Year3/Sem1/PDPDI/Haskell/Week1",
+    "Year3/Sem1/PDPDI/Week1/Lecture.md",
+    "Year3/Sem1/PDPDI/Haskell",
+    "Year3/Sem1/PDPDI/Week1",
+    "Year3/Sem1/Networking",
+    "Year3/Sem1/Security",
+    "Year3/Sem1/PDPDI",
+    "a.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/Equivalences.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/InferenceRules.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/Semantics.md",
+    "Year2/Sem1/OSSP/Revision/Week9.md",
+    "Year2/Sem1/OSSP/Revision/Week7.md",
+    "Year2/Sem1/OSSP/Revision/Week5.md",
     "Year2/Sem1/OSSP/Revision/Week4.md",
-    "Year2/Sem1/OSSP/Revision/Week1.md",
-    "Year2/Sem2/AI2/Revision/Week9.md",
-    "Year2/Sem2/AI2/Revision/Week10.md",
-    "Year2/Sem2/AI2/Revision/attachments/Pasted image 20240507103932.png",
-    "Year2/Sem2/AI2/Revision/attachments/Pasted image 20240507103745.png",
-    "Year2/Sem2/AI2/Revision/attachments/Pasted image 20240506154652.png",
-    "Year2/Sem2/AI2/Revision/Week3.md",
-    "Year2/Sem2/AI2/Revision/Week8.md",
-    "Year2/Sem2/AI2/Revision/Week2.md",
-    "Year2/Sem2/AI2/Revision/attachments/Pasted image 20240506154306.png",
-    "Year2/Sem2/AI2/Revision/attachments/Pasted image 20240506154251.png",
-    "Year2/Sem2/AI2/Revision/Week1.md",
-    "Year2/Sem2/AI2/Revision/Exercise Sheets.md",
-    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240506152341.png",
-    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240506143940.png",
-    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240506141433.png",
-    "Year2/Sem2/Security+Networks/Revision/attachments",
-    "Year2/Sem2/AI2/Revision/Lecture.md",
-    "Year2/Sem2/AI2/Revision/attachments",
-    "Year2/Sem1/OSSP/Revision",
-    "Year2/Sem2/AI2/Revision",
-    "Year2/Sem2/Security+Networks/Revision",
-    "Year2/Sem2/Security+Networks/Week10",
-    "Year2/Sem2/AI2/Week9",
-    "Year2/Sem2/Security+Networks/Week9",
-    "Year2/Sem2/AI2/Week8",
-    "CSS"
+    "Year2/Sem2/Security+Networks/Revision/Speedrun.md",
+    "Year2/Sem1/OSSP/Revision/Makefile.md",
+    "Year2/Sem1/OSSP/Revision/Lecture.md",
+    "Year2/Sem1/OSSP/Revision/attachments/Pasted image 20240515135649.png",
+    "Year2/Sem1/OSSP/Revision/attachments/Pasted image 20240514124140.png",
+    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240512153255.png",
+    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240512153154.png",
+    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240512153032.png"
   ]
 }
