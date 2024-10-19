@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc4f8edb3ff2a090",
+            "id": "f9ba0bf55d97b266",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year3/Sem1/Security/Week1/reverse-engineering-binaries.md",
+                "file": "Year3/Sem1/Networking/lower-layers/modern-networks.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "modern-networks"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f3dbbdef01faca33",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year3/Sem1/Security/Week1/reverse-engineering-binaries.md",
+                "file": "Year3/Sem1/Networking/lower-layers/modern-networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for modern-networks"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year3/Sem1/Security/Week1/reverse-engineering-binaries.md",
+                "file": "Year3/Sem1/Networking/lower-layers/modern-networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from modern-networks"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year3/Sem1/Security/Week1/reverse-engineering-binaries.md"
-              }
+                "file": "Year3/Sem1/Networking/lower-layers/modern-networks.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of modern-networks"
             }
           }
         ]
@@ -147,52 +163,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc4f8edb3ff2a090",
+  "active": "f9ba0bf55d97b266",
   "lastOpenFiles": [
-    "Year3/Sem1/Networking/Week1/Lecture.md",
-    "Year3/Sem1/Networking/Week1/attachments/Pasted image 20241004092726.png",
-    "Year3/Sem1/Networking/Week1/attachments",
+    "Year3/Sem1/Networking/lower-layers/Lecture.md",
+    "Year3/Sem1/Networking/lower-layers/modern-networks.md",
+    "Year3/Sem1/PDPDI/operational-semantics/small-step.md",
+    "Year3/Sem1/PDPDI/operational-semantics/big-step.md",
+    "Year3/Sem1/PDPDI/operational-semantics/attachments/Pasted image 20241017175426.png",
+    "Year3/Sem1/PDPDI/operational-semantics/attachments/Pasted image 20241017175405.png",
+    "Year3/Sem1/Security/Week3/dynamic-binary-analysis.md",
+    "Year3/Sem1/Security/Week3",
+    "Year1/Sem1/MLFCS/Logic/Propositional/InferenceRules.md",
+    "Year1/Sem1/MLFCS/Logic/Propositional/ClassicalReasoning.md",
+    "Year1/Sem1/MLFCS/Logic/Propositional/AvoidingAmbiguities.md",
+    "Year1/Sem1/MLFCS/Logic/Propositional/BasicConcepts.md",
+    "Year1/Sem1/MLFCS/Logic/BNFs.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/Syntax.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/Semantics.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/InferenceRules.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/Equivalences.md",
+    "Year3/Sem1/Networking/intro/Lecture.md",
+    "Year3/Sem1/PDPDI/lambda-calculus/Untyped.md",
     "Year3/Sem1/PDPDI/Haskell/Week1/Lecture.md",
-    "Year3/Sem1/Security/Week1/arm-assembly.md",
+    "Year3/Sem1/PDPDI/operational-semantics/attachments/Pasted image 20241015103215.png",
+    "Year3/Sem1/PDPDI/operational-semantics/attachments/Pasted image 20241015103207.png",
+    "Year3/Sem1/PDPDI/operational-semantics/attachments",
+    "Year3/Sem1/PDPDI/operational-semantics",
+    "Year3/Sem1/Networking/lower-layers/attachments/Pasted image 20241011091941.png",
+    "Year3/Sem1/Networking/lower-layers/attachments",
+    "Year3/Sem1/Security/Week2/advanced-memory-attacks.md",
+    "Year3/Sem1/Security/Week2/stack-overflow.md",
+    "Year3/Sem1/Networking/lower-layers",
+    "Year3/Sem1/Networking/intro",
+    "Year3/Sem1/Networking/Week2",
     "Year3/Sem1/Security/Week1/reverse-engineering-binaries.md",
+    "Year3/Sem1/Security/Week2",
+    "Year3/Sem1/PDPDI/lambda-calculus/attachments/Pasted image 20241007123115.png",
+    "Year3/Sem1/PDPDI/lambda-calculus/attachments",
+    "Year3/Sem1/PDPDI/lambda-calculus",
+    "Year3/Sem1/Networking/intro/attachments/Pasted image 20241004092726.png",
+    "Year3/Sem1/Security/Week1/arm-assembly.md",
     "Year3/Sem1/Security/Week1/attachments/Pasted image 20241003134208.png",
     "CSS/Guild-Newsletter-Email.md",
     "Year3/Sem1/Security/Week1/attachments/Pasted image 20241002183220.png",
-    "Year3/Sem1/Networking/Week1",
     "Year3/Sem1/Security/Week1/attachments/Pasted image 20240930153043.png",
-    "Year3/Sem1/Security/Week1/attachments/Pasted image 20240930152513.png",
-    "Year3/Sem1/Security/Week1/attachments",
     "PhantomWallet.md",
     "HetznerKey.md",
-    "CSS/draft-email.md",
-    "Year3/Sem1/Security/Week1",
-    "CSS/Soceities-Night.md",
-    "CSS/PGT_Rep_Bio.md",
-    "CSS/cmt-names-2024-25.md",
-    "CSS/AgendaChanges.md",
-    "Year3/Sem1/PDPDI/Haskell/Week1.md",
-    "Year3/Sem1/PDPDI/Haskell/Week1",
-    "Year3/Sem1/PDPDI/Week1/Lecture.md",
-    "Year3/Sem1/PDPDI/Haskell",
-    "Year3/Sem1/PDPDI/Week1",
-    "Year3/Sem1/Networking",
-    "Year3/Sem1/Security",
-    "Year3/Sem1/PDPDI",
-    "a.md",
-    "Year1/Sem1/MLFCS/Logic/Predicate/Equivalences.md",
-    "Year1/Sem1/MLFCS/Logic/Predicate/InferenceRules.md",
-    "Year1/Sem1/MLFCS/Logic/Predicate/Semantics.md",
-    "Year2/Sem1/OSSP/Revision/Week9.md",
-    "Year2/Sem1/OSSP/Revision/Week7.md",
-    "Year2/Sem1/OSSP/Revision/Week5.md",
-    "Year2/Sem1/OSSP/Revision/Week4.md",
-    "Year2/Sem2/Security+Networks/Revision/Speedrun.md",
-    "Year2/Sem1/OSSP/Revision/Makefile.md",
-    "Year2/Sem1/OSSP/Revision/Lecture.md",
-    "Year2/Sem1/OSSP/Revision/attachments/Pasted image 20240515135649.png",
-    "Year2/Sem1/OSSP/Revision/attachments/Pasted image 20240514124140.png",
-    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240512153255.png",
-    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240512153154.png",
-    "Year2/Sem2/Security+Networks/Revision/attachments/Pasted image 20240512153032.png"
+    "CSS/draft-email.md"
   ]
 }
