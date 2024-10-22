@@ -131,7 +131,7 @@ They could meet face-to-face and set up keys, or they could get a trusted third 
 - $A \rightarrow B : Cert_A, \{S_A(g^y, g^x)\}_{g^{xy}}$
 
 The full STS protocol adds certificates for A and B
-These contain their public key signed by a TTP so Alice and Bob don't need to know each others oublic key
+These contain their public key signed by a TTP so Alice and Bob don't need to know each others public key
 
 #### Key Establishment Goals
 
