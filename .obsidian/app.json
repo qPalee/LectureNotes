@@ -4,5 +4,6 @@
   "trashOption": "none",
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
-  "foldHeading": false
+  "foldHeading": false,
+  "vimMode": true
 }

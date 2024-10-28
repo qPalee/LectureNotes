@@ -8,6 +8,9 @@ We assume that the attacker has complete control of the network
 - Both parties must authenticate
 	- Both are talking to who they believe they are talking to
 - Forward Secrecy
+- No weak cipher
+- Key Compromise Impersonation Attack
+- Protocol should not be complex or have lots of different roles
 
 ### Needham-Schroeder Public Key Protocol
 If Alice and Bob know each others public keys, they can set up a symmetric key
@@ -44,30 +47,20 @@ A protocol has <span style="color:#00bfff">forward secrecy</span> if it keeps th
 This gives protection against a government which can force people to give up their keys or hackers that may steal them
 
 ### Diffie-Hellman
-Diffie-Hellman is a widely used key aggreement protocol
+Diffie-Hellman is a widely used key agreement protocol
 
 <span style="color:#ff0000">yap yap yap</span>
 
 ### Station-to-Station Protocol
 - $A \rightarrow B : g^x$
-- $B \rightarrow A : g^y, \{S_B(g^y, g^x)\}_{g^{xy}}$
-- $A \rightarrow B : \{S_A(g^y, g^x)\}_{g^{xy}}$
+- $B \rightarrow A : g^y, E_A(S_B(g^y, g^x))$
+- $A \rightarrow B : E_B(S_A(g^y, g^x))$
 - $B \rightarrow A : \{M\}_{g^{xy}}$
 
 In this protocol, $x$, $y$ and $g^{xy}$ are not stored after the protocol run
 A and B's keys don't let the attacker read M
 STS has <span style="color:#00bfff">forward secrecy</span>
 
-#### Certificates
-What if Alice and Bob don't know each other's public keys to begin with
-
-They could meet face-to-face and set up keys, or they could get a trusted third party (TTP) to sign their identity and public key
-
-#### Full STS Protocol
-- $A \rightarrow B : g^x$
-- $B \rightarrow A : g^y, Cert_B, \{S_B(g^y, g^x)\}_{g^{xy}}$
-- $A \rightarrow B : Cert_A, \{S_A(g^y, g^x)\}_{g^{xy}}$
-
-The full STS protocol adds certificates for A and B
-These contain their public key signed by a TTP so Alice and Bob don't need to know each others public key
+#### Mutual Belief
+<span style="color:#ff0000">copy this slide (30) later</span>
 

@@ -134,16 +134,76 @@ Knows as Cambridge Rings from their place of development
 Picture unrelated
 
 Instead of circulating a token, empty data frames circulate
-###### Todays lecture
+- Like a conveyor belt in a sushi restaurant
 
-ATM didn't deliver what it promised
-If you have lots of bandwidth available and the clients aren't too fussy, you can just assume you can send packets and they'll get there eventually
-- If the network fills up you can just throw away some packets
+Slotted Rings require a minimum length of network, so that there are a sufficient number of empty packets circulating
+- This lead to long lengths of cable under the floor
 
-Most ISPs hard-drop policing, either deliberately to save costs or as a consequence on the hardware they're using
-	Often the upload speed id only 10% of the download speed
+It became popular in UK universities since boards were cheap and easy to build and drivers were available for common Unix variants
+- Never achieved significant traction elsewhere
+### ATM
+- Stands for Asynchronous Transfer Mode
+- Proposed by Telcos as part of the broadband unified services architectures of the 90s
+- Breaks data into a stream of 48 bytes 
+	- This is very dumb
+	- America wanted 64, the Fr\*nch wanted 32 because they could run voice without needing echo cancellation
+	- They compromised on 48
+	- This didn't help anyone
+	- Fr\*nce still needed noise cancellation
+	- 48 is just a weird number
+	- I understand why Ian is annoyed by this
+- Virtual circuits, so only need a 5-byte header
+	- This is about 10% of the 48 bytes available
+- Smaller packets gives lower latency
+- Switching a stream of small datagrams is very inefficient
+- ATM incorporates extensive traffic shaping and policing options
 
-The issues with switching is the same as crashing an f1 car apparently
+#### Traffic Engineering
+ATM gave rise to a range of 'traffic engineering' policies
+The idea was to share out limited bandwidth "fairly", while providing a means to change for premium services
+##### Profiles
+- Constant Bit Rate
+	- Guarantees a fixed-speed point to point link
+- Variable Bit Rate
+	- Allows bursts of higher speeds, while preserving guarantees about timing
+- Available Bit Rate
+	- Guarantees a minimum performance, but sometimes delays packets that exceed it
+- Unspecified Bit Rate
+	- Best efforts for rate, delay and reliability
+- All of these guarantee ordering, which IP does not
+#### Traffic Shaping
+- At the edge of the network, you can shape data into a particular profile
+- Clock the data into a large buffer as it arrives
+- Clock it out within the parameters of the profile
+- This can introduce delay if the arrival rate > departure rate
+	- More memory allows this to be dealt with for longer
+- The buffer acts like the queue for a crowded train
+
+#### Random Early Drop
+- Always turn it on if you can
+- Current State-of-the-art
+
+Strategy is to randomly drop packets with a probability which increases as the buffer fills up
+- This reduces speed before the real loss starts to happen
+
+This loss of packets is seen by the sender when the acknowledgements stop, and is a signal to the sender to send less packets (hopefully)
+
+With leaky bucket everything is fine until it isn't
+- Once the buffer fills up all hell breaks loose
+	- Either a huge break in traffic
+	- Or fragmented data is sent
+
+#### MPLS
+- Multi Protocol Label Switching
+- Basically ATM with larger packets
+	- As networks get faster, the benefits of smaller packets are outweighed by the additional switching overhead
+- I need to know it exists
+
+#### Wave Division Multiplexing
+- Uses different colour light to transmit multiple streams down a single fibre
+	- Cool kids call it 'lambda' instead of colour
+		- Giving PLPDI flashbacks
+- You can get over 1000 channels down a single fibre
 
 Its possible that equipment isn't sufficiently fast to cause problems
 
@@ -164,32 +224,6 @@ Traffic shaping is like a leaky bucket
 
 Traffic Policing is the same but with a tiny buffer
 - Like using a plate instead of a bucket
-
-### MPLS
-- Multi Protocol Label Switching
-- Basically ATM with larger packets
-	- As networks get faster, the benefits of smaller packets are outweighed by the additional switching overhead
-- I need to know it exists
-
-### Wave Division Multiplexing
-- Uses different colour light to transmit multiple streams down a single fibre
-	- Cool kids call it 'lambda' instead of colour
-		- Giving PLPDI flashbacks
-- You can get over 1000 channels down a single fibre
-
-### Random Early Drop
-- Always turn it on if you can
-- Current State-of-the-art
-Strategy is to randomly drop packets with a probability which increases as the buffer fills up
-- This reduces speed before the real loss starts to happen
-
-This loss of packets is seen by the sender when the acknowledgements stop, and is a signal to the sender to send less packets (hopefully)
-
-With leaky bucket everything is fine until it isn't
-- Once the buffer fills up all hell breaks loose
-	- Either a huge break in traffic
-	- Or fragmented data is sent
-
 
 ### Takeaway
 - Ethernet switching is robust under load, and networks these days have substantial excess performance
