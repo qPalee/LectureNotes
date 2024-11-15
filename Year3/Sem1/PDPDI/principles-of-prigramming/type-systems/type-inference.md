@@ -65,7 +65,6 @@ If $\textcolor{#00bfff}{\alpha}$ occurs several times in a substitution, the las
 The action table
 - takes a goal of the form $\textcolor{#00bfff}{<\Gamma;M;T>}$
 - and returns a pair of a set of constraints $\textcolor{#00bfff}{C}$ and a set of sub-goals $\textcolor{#00bfff}{G}$
-
 ##### Action Rules
 ![[Pasted image 20241024195611.png]]
 
@@ -73,3 +72,4 @@ The action table
 We say x has type $\alpha$ until we can infer what type it actually is
 There can be multiple different $\alpha$s
 
+![[Pasted image 20241115103638.png]]

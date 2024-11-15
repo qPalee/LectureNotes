@@ -1,4 +1,4 @@
-q# Small Step Operational Semantics
+# Small Step Operational Semantics
 Small step operational semantic are similar to big step but instead it specifies how programs execute 1 step at a time
 
 Small-step semantics overcomes the shortcomings of big-step
@@ -72,7 +72,6 @@ $$\textcolor{#00bfff}{\cfrac{}{x \Longrightarrow_{no} x}}$$
 $$\textcolor{#00bfff}{\cfrac{M \Longrightarrow_{no} N}{\lambda x.M \Longrightarrow_{no} \lambda x.N}}$$
 $$\textcolor{#00bfff}{\cfrac{M \Longrightarrow_n \lambda x.P \quad P[x \text{\\}N] \Longrightarrow_{no} Q}{M \space N \Longrightarrow_{no} Q}}$$
 $$\textcolor{#00bfff}{\cfrac{M \Longrightarrow_n P \neq \lambda x.T \quad M \Longrightarrow_{no} Q \quad N \Longrightarrow_{no} R}{M \space N \Longrightarrow_{no} Q \space R}}$$
-
 ##### Example
 - $\textcolor{#00bfff}{(\lambda x. \lambda y. y)(\lambda x.xx)(\lambda x.xx) \Longrightarrow_{no} \lambda y.y}$
 	- This does not reduce to a normal form

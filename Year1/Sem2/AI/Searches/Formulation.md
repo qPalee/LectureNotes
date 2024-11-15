@@ -1,7 +1,7 @@
 The formulation of a search problem is the process of formally defining the search problem
 
 We make the following assumptions about the environment:
-- Observable - Agent able to know urrent state
+- Observable - Agent able to know current state
 - Discrete - Finite many actions
 - Known - The agent can determine which states are reached by which action
 - Deterministic - Each action has one outcome

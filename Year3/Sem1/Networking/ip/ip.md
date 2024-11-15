@@ -118,7 +118,7 @@ Instead of fragmenting, discover the minimum MTU along the route packets
 	- If Fragmentation Needed ICMP messages are dropped then shit goes bad
 #### 32-bit Addresses
 - At the time, this was insanely large
-- Arpanet reached a peak of 113 nodes by 183
+- Arpanet reached a peak of 113 nodes by 1983
 - Originally, there was 8 bits for the site, and 24 bits to specify a machine at that site
 	- This was seen as wrong very quickly, 256 sites was simply not enough, even in the early 80s
 #### Notation
@@ -142,3 +142,37 @@ It was decided that 32 bits would be used, which gives ~4 billion addresses
 - They expected a fraction of a percent of utilisation
 The priority was being able to make routing decisions quickly on slow hardware
 - This is still affecting us today
+
+### Classful Addresses
+This lead to lots of wasted addresses
+##### Wasteful Allocation
+Total reachable space is only ~87% of available addresses
+Class A space is very sparsely occupied since no-one has 16 million hosts
+Very few universities have 65536 hosts, so class B space is also sparsely occupied
+Class C space, was initially available in bulk
+
+Estimates these days say that around 25% of address space is usefully deployed
+There are huge shortages outside of Cold War era NATO countries
+
+This is bad, but it was done since it is very easy for routers
+- Back in the day most of the internet was only Class A addresses
+- Routers would check if it was 'local' first
+- Then they checked where to send the packet to by looking at the first bit of an address
+- This was easy even in 1980
+#### Sub-Netting
+You can split up the large network into smaller sub-networks
+- Birmingham has 256 networks each with 256 hosts
+![[Pasted image 20241029111208.png]]
+##### Netmasks
+A bit pattern which can be & with an address to get a network number
+- Class A (/8) is 255.0.0.0
+- Class B (/16) is 255.255.0.0
+- Class C (/24) is 255.255.255.0
+
+##### CIDR and Slash Notation
+Classless Inter-domain Routing gave each network a net-mask which describes how much of the ip is network and how much of it is host
+These are notated using a Slash
+
+#### RFC1918
+- Class A Network 10 became free when the Arpanet backbone was closed down
+

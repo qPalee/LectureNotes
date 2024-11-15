@@ -14,7 +14,7 @@ OSI 7 layer model is nonsense - Tim lied to me
 - Why IPv6 is needed - we have ran out
 - Address translation
 
-### Week4 
+### Week 4 
 - Transport mechanisms - UDP, RTSP
 - NAT, how ipv6 fixes it, IoT
 - The Chinese government can open Ians curtains
