@@ -34,4 +34,56 @@ Derivations can also be represented as parse trees, that filter out the order in
 ![[Pasted image 20241114173305.png]]
 Parsers will build ASTs
 
-a
+#### Ambiguities
+A language is ambiguous if a sentence can be derived with 2 different parse trees
+
+Checking for ambiguity in CFGs is <span style="color:#ff0000">undecidable</span>, but grammars can be modified to avoid this
+
+To remove ambiguities, you can layer your production rules, so the lower ones will have lower precedence
+![[Pasted image 20241115150804.png]]
+
+#### Pushdown Automata
+CFGs can capture languages that REs cannot
+FA were enough to recognise the languages corresponding to REs
+CFGs are accepted by pushdown automata (FA with stacks)
+
+A PDA is defined as follows:
+
+
+##### Example
+![[Pasted image 20241115151650.png]]
+
+$a, a, aa$
+- read a
+- pop from stack
+- if a was popped from the stack
+- push aa onto the stack
+
+$a,  \bot ,a \bot$  
+- read a
+- pop from stack
+- if $\bot$ was popped from the stack
+- push $a\bot$ onto the stack
+
+![[Pasted image 20241115153139.png]]
+
+### Parsers
+There are 2 kinds of parsers
+- <span style="color:#00bfff">top-down</span>: constructs the parse tree from the root
+	- leftmost derivation
+- <span style="color:#00bfff">bottom-up</span>: constructs the parse tree from the leaves
+	- rightmost derivation
+
+#### Top-Down parsing
+We must eliminate left recursions
+
+A general technique to do this is to transform the grammar into this
+![[Pasted image 20241115153406.png]]
+
+#### Bottom-Up parsing
+
+![[Pasted image 20241118120208.png]]
+
+To avoid ambiguity, we need to make the right decision.
+
+There is an algorithm for this but we don't need to know how it works because it is very complicated
