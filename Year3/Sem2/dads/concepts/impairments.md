@@ -48,6 +48,7 @@ It has a recursive structure
 
 ![[Pasted image 20250123104917.png]]
 
+Failure at one level of abstraction can lead to a failure at another
 ## The Dependability Tree
 A taxonomy generalises and structures our consideration of dependability
 
@@ -55,4 +56,4 @@ A taxonomy generalises and structures our consideration of dependability
 - [[means]] - what we can do to impart dependability
 - [[attributes]] - what measures we use to establish the dependability of a system
 
-![[Pasted image 20250123105354.png]]
+

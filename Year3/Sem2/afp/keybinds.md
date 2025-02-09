@@ -1,4 +1,4 @@
-
+<span style="color:#00bfff"></span>
 `C-c C-l` loads the buffer
 - syntax highlights code
 
@@ -12,7 +12,7 @@
 `C-x u` undo
 - you can also use `ctrl+shift+-`
 
-`C-C C-r` refine
+`C-c C-r` refine
 - `{map}` would become `map {} {}`
 
 `C-c C-,` show context

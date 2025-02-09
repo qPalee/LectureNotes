@@ -38,3 +38,4 @@ Services need to be correct and timely
 Elements may start failing
 - services not provided as expected
 
+![[Pasted image 20250123105354.png]]
