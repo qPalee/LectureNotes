@@ -1,5 +1,5 @@
 # Hazards
-A hazard is a set of conditions of a system that will lead to an accident, when combined wiht environmental conditions
+A hazard is a set of conditions of a system that will lead to an accident, when combined with environmental conditions
 
 Defined in terms of states to be avoided
 - No two aircraft should share the same airspace

@@ -14,7 +14,7 @@ TCP is split up into 4 chunks
 
 TCP does no error correcting
 - It will just retransmit data
-- It something is corrupted it will bin it
+- If something is corrupted it will bin it
 
 #### Acknowledgement Mechanisms
 Let us assume that the channel may introduce errors but packets are not lost

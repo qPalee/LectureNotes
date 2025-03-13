@@ -24,6 +24,8 @@ $F(t)$ is the number of failed devices at time $t$
 
 To calculate the reliability of a component over time period ($t_1, t$)
 $$Reliability = R(t) = \frac{U(t)}{N}$$
+where $N$ is the total number of devices
+
 Unreliability is just $1 - R(t)$
 
 ### Exponential Failure Law
@@ -37,34 +39,3 @@ Allows us to plot a graph of reliability vs time as well as analysing the reliab
 
 Since reliability is defined over a specified time period, if reliability drops below a threshold it can be detected
 
-### Reliability Modelling
-#### MTTF
-Mean Time to Failure
-
-Expected time a system will operate before first failure
-
-If there are $N$ identical systems which run correctly at $t=0$ but they all fail at time $t_0$ then MTTF has the formula
-$$MTTF=\sum^{N}_{i=1}\frac{t_i}{N}$$
-In the continuous case, MTTF can be calculated using 
-$$MTTF=\int^{\infty}_{\infty}t \ f(t) \ dt$$ where $f(t)$ is the failure density function - derivative of unreliability
-
-In the case of $\lambda$, this can be reduced down to $$MTTF=\frac{1}{\lambda}$$
-#### MTTR
-Mean Time to Repair
-
-MTTR is the average time to repair a failed computer system
-Includes time for detecting and locating the fault, repairing it and reconfiguring the system
-
-It can be difficult to predict analytically
-- might require experimental measurement for computation
-
-The repair rate is denoted by $\mu$ 
-$$MTTR =\frac{1}{\mu}$$
-
-#### MTBF
-Mean Time Between Failures
-
-Average time elapsed between failures
-
-It is assumed that after repair, the system works as it was before failure
-$$MTBF = MTTR + MTTF$$
