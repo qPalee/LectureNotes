@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year3/Sem2/dads/clocks/Overview.md",
+                "file": "Year3/Sem2/dads/clocks/overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "overview"
+            }
+          },
+          {
+            "id": "53305401264e9aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nl-talk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nl-talk"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f3dbbdef01faca33",
@@ -194,8 +207,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "301e3b7495b20ed5",
+  "active": "53305401264e9aed",
   "lastOpenFiles": [
+    "Year3/Sem2/dads/clocks/logical-clocks.md",
+    "Year3/Sem2/dads/clocks/generic-protocol.md",
+    "Year3/Sem2/dads/clocks/reliable-time-sources.md",
+    "Year3/Sem2/dads/clocks/overview.md",
+    "nl-talk.md",
+    "Year3/Sem2/crypto/week9/lecture.md",
+    "Year3/Sem2/crypto/week5/lecture.md",
+    "Year3/Sem2/crypto/week9",
     "Year3/Sem2/dads/clocks/attachments/Pasted image 20250313092137.png",
     "Year3/Sem2/dads/clocks/attachments/Pasted image 20250313091705.png",
     "Year3/Sem2/dads/clocks/attachments",
@@ -205,7 +226,6 @@
     "Year2/Sem2/Security+Networks/Revision/Speedrun.md",
     "Year2/Sem2/Security+Networks/Revision/Week4.md",
     "Year3/Sem2/dads/coursework-notes.md",
-    "Year3/Sem2/dads/clocks/Overview.md",
     "Year3/Sem2/dads/byzantine-generals/paxos.md",
     "Year3/Sem2/dads/clocks",
     "Year3/Sem2/dads/byzantine-generals/overview.md",
@@ -224,11 +244,6 @@
     "Year3/Sem2/dads/consensus/consensus-problems.md",
     "Year3/Sem2/dads/consensus/Untitled",
     "Year3/Sem2/dads/leader-elections/overview.md",
-    "Year3/Sem2/dads/leader-elections/leader-election-problem.md",
-    "Year3/Sem2/dads/consensus/byzantine-failure.md",
-    "Year2/Sem2/Security+Networks/Revision/Week5.md",
-    "Year2/Sem2/Security+Networks/Week5/Protocols.md",
-    "Year2/Sem2/Security+Networks/Week3/SymmetricKeyCryptography.md",
     "Year3/Sem2/dads/consensus",
     "Year3/Sem2/dads/leader-elections/attachments/Pasted image 20250220092920.png",
     "Year3/Sem2/dads/leader-elections/attachments/Pasted image 20250217161612.png",
@@ -236,11 +251,9 @@
     "Year3/Sem2/crypto/week5",
     "Year3/Sem2/dads/leader-elections",
     "Year3/Sem2/dads/analysis/attachments/Pasted image 20250213092928.png",
-    "Year3/Sem2/afp/week4",
     "Year3/Sem2/dads/analysis/attachments/Pasted image 20250210165054.png",
     "Year3/Sem2/dads/analysis/attachments/Pasted image 20250210164814.png",
     "Year3/Sem2/dads/analysis/attachments/Pasted image 20250210164021.png",
-    "Year3/Sem2/dads/analysis/attachments/Pasted image 20250210162447.png",
-    "Year3/Sem2/crypto/week4/attachments/Pasted image 20250210152619.png"
+    "Year3/Sem2/dads/analysis/attachments/Pasted image 20250210162447.png"
   ]
 }
