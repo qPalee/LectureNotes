@@ -22,7 +22,9 @@ Arguments are put in registers
 Results return in RAX and RDX or XMM0 and XMM1
 
 The function makes a new stack space by moving the stack pointers (RSP, RBP)
-Instruction pointers and old RBP are stored on the stack for later
+Original RBP and RIP are stored on the stack (in that order) for later
+- extra parameters not in registers are then pushed on top of them
+- starting at rbp + 0x10
 
 ##### Windows
 Windows uses different registers
