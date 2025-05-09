@@ -68,3 +68,5 @@ DHCP works very well up until it doesn't
 - They are un-authenticated, so running a rogue DHCP server on a network which provides addresses of hacked DNS and routers is powerful
 	- This is very hard to stop
 - Nothing is stopping you from ignoring the DHCP server and making up your own address
+
+Dont do crimes

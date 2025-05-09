@@ -313,5 +313,5 @@ Receiver:
 Sender:
 - Do not send small packets when there is outstanding unack'd data
 
-Next tuesday is gonna be a good lecture
-We have been good boys this time
+
+![[Pasted image 20250408150254.png]]

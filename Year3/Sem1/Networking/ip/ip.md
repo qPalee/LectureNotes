@@ -10,6 +10,7 @@ IP is a network layer which makes no promises
 - There is no checksum covering the data
 
 Its hard to image something which offers less
+- Very barebone protocol
 
 ##### History
 - Proposed in 1974

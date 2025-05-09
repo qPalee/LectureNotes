@@ -2,7 +2,6 @@
 
 ### Volume
 Bandwidth will tend to infinity
-
 ### Latency
 How much delay does the network have
 

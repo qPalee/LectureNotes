@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e05c638b660cd419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year3/Sem2/dads/concepts/overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "overview"
-            }
-          },
-          {
-            "id": "4655b9e8822e27d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year3/Sem1/Networking/tcp-udp/other-protocols.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "other-protocols"
-            }
-          },
-          {
             "id": "301e3b7495b20ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year3/Sem2/dads/clocks/overview.md",
+                "file": "Year3/things-to-revise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overview"
+              "title": "things-to-revise"
             }
           },
           {
-            "id": "53305401264e9aed",
+            "id": "916abef2b209e685",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nl-talk.md",
+                "file": "Year3/Sem1/Networking/ip/ip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nl-talk"
+              "title": "ip"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,53 +179,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53305401264e9aed",
+  "active": "916abef2b209e685",
   "lastOpenFiles": [
-    "Year3/Sem2/dads/clocks/logical-clocks.md",
-    "Year3/Sem2/dads/clocks/generic-protocol.md",
-    "Year3/Sem2/dads/clocks/reliable-time-sources.md",
-    "Year3/Sem2/dads/clocks/overview.md",
-    "nl-talk.md",
-    "Year3/Sem2/crypto/week9/lecture.md",
-    "Year3/Sem2/crypto/week5/lecture.md",
-    "Year3/Sem2/crypto/week9",
-    "Year3/Sem2/dads/clocks/attachments/Pasted image 20250313092137.png",
-    "Year3/Sem2/dads/clocks/attachments/Pasted image 20250313091705.png",
-    "Year3/Sem2/dads/clocks/attachments",
-    "Year2/Sem2/Security+Networks/Revision/Week10.md",
-    "Year2/Sem2/Security+Networks/Revision/Week8.md",
-    "Year2/Sem2/Security+Networks/Revision/Week2.md",
-    "Year2/Sem2/Security+Networks/Revision/Speedrun.md",
-    "Year2/Sem2/Security+Networks/Revision/Week4.md",
-    "Year3/Sem2/dads/coursework-notes.md",
-    "Year3/Sem2/dads/byzantine-generals/paxos.md",
-    "Year3/Sem2/dads/clocks",
-    "Year3/Sem2/dads/byzantine-generals/overview.md",
-    "Year3/Sem2/dads/byzantine-generals/attachments/Pasted image 20250310160747.png",
-    "Year3/Sem2/dads/byzantine-generals/attachments",
-    "Year3/Sem2/dads/byzantine-generals/tenth-march.md",
-    "Year3/Sem2/dads/byzantine-generals",
-    "Year3/Sem2/dads/coursework-guidance.md",
-    "Year3/Sem1/Networking/tcp-udp/other-protocols.md",
+    "Year3/Sem1/Networking/Revision/revision-lecture.md",
+    "Year3/Sem1/Networking/NAT.md",
+    "Year3/Sem1/Networking/Revision",
+    "Year3/Sem1/PDPDI/revision-lecture.md",
+    "Year3/Sem1/PDPDI/principles-of-prigramming/type-systems/simply-typed-lambda-calculus.md",
+    "Year3/Sem1/PDPDI/principles-of-prigramming/type-systems/type-inference.md",
+    "Year3/Sem1/PDPDI/principles-of-prigramming/lambda-calculus/Untyped.md",
+    "Year3/Sem1/Security/revision-lecture.md",
+    "Year3/Sem1/Security/David/Week9/side-channel-intro.md",
+    "Year3/Sem1/Security/David/Week9/breaking-aes.md",
+    "Year3/Sem1/Security/David/Week8/fault-injection.md",
+    "Year3/Sem1/Security/David/Week8/software-based-fault-injection.md",
+    "Year3/Sem1/Security/David/Week7/firmware-extraction.md",
+    "Year3/Sem1/Security/David/Week7/firmware-analysis.md",
+    "Year3/Sem1/Security/Tom/Week1/reverse-engineering-binaries.md",
+    "Year3/Sem1/Security/Tom/Week1/arm-assembly.md",
+    "Year3/Sem1/Security/Tom/Week2/stack-overflow.md",
+    "Year3/Sem1/Security/Tom/Week2/advanced-memory-attacks.md",
+    "Year3/Sem1/Security/Tom/Week5/advanced-protocols.md",
+    "Year3/Sem1/Security/Tom/Week4/tls.md",
+    "Year3/Sem1/Security/Tom/Week4/cryptographic-protocols.md",
+    "Year3/Sem1/Security/Tom/Week4/bank-card-security.md",
+    "Year3/Sem1/Networking/lower-layers/modern-networks.md",
+    "Year3/Sem1/Networking/lower-layers/Lecture.md",
     "Year3/Sem1/Networking/tcp-udp/udp.md",
     "Year3/Sem1/Networking/tcp-udp/tcp.md",
-    "Year3/Sem1/Networking/lower-layers/modern-networks.md",
-    "Year3/Sem2/dads/consensus/floodset.md",
-    "Year3/Sem2/dads/consensus/process-failures.md",
-    "Year3/Sem2/dads/consensus/link-failures.md",
-    "Year3/Sem2/dads/consensus/consensus-problems.md",
-    "Year3/Sem2/dads/consensus/Untitled",
-    "Year3/Sem2/dads/leader-elections/overview.md",
-    "Year3/Sem2/dads/consensus",
-    "Year3/Sem2/dads/leader-elections/attachments/Pasted image 20250220092920.png",
-    "Year3/Sem2/dads/leader-elections/attachments/Pasted image 20250217161612.png",
-    "Year3/Sem2/dads/leader-elections/attachments",
-    "Year3/Sem2/crypto/week5",
-    "Year3/Sem2/dads/leader-elections",
-    "Year3/Sem2/dads/analysis/attachments/Pasted image 20250213092928.png",
-    "Year3/Sem2/dads/analysis/attachments/Pasted image 20250210165054.png",
-    "Year3/Sem2/dads/analysis/attachments/Pasted image 20250210164814.png",
-    "Year3/Sem2/dads/analysis/attachments/Pasted image 20250210164021.png",
-    "Year3/Sem2/dads/analysis/attachments/Pasted image 20250210162447.png"
+    "Year3/Sem1/Networking/address-allocation/ipv6-allocation.md",
+    "Year3/Sem1/Networking/tcp-udp/attachments/Pasted image 20250408150254.png",
+    "Year3/Sem2/dads/broadcast-algorithms/attachments/Pasted image 20250327093818.png",
+    "Year3/Sem2/dads/broadcast-algorithms/attachments/Pasted image 20250327093633.png",
+    "Year3/Sem2/dads/broadcast-algorithms/attachments/Pasted image 20250327093144.png",
+    "Year3/Sem2/dads/broadcast-algorithms/attachments/Pasted image 20250327092451.png",
+    "Year3/Sem2/dads/broadcast-algorithms/attachments",
+    "Year3/Sem2/dads/broadcast-algorithms",
+    "Year3/Sem2/dads/reliable-links/attachments/Pasted image 20250324164118.png",
+    "Year3/Sem2/dads/reliable-links/attachments/Pasted image 20250324164107.png",
+    "Year3/Sem2/dads/reliable-links/attachments/Pasted image 20250324164059.png",
+    "Year3/Sem2/dads/reliable-links/attachments/Pasted image 20250324164051.png",
+    "Year3/Sem2/dads/reliable-links/attachments/Pasted image 20250324164042.png",
+    "Year3/Sem2/dads/reliable-links/attachments",
+    "Year3/Sem2/dads/reliable-links",
+    "Year3/Sem2/crypto/week9",
+    "Year3/Sem2/dads/clocks/attachments",
+    "Year3/Sem2/dads/clocks",
+    "Year3/Sem2/dads/byzantine-generals/attachments",
+    "Year3/Sem2/dads/byzantine-generals"
   ]
 }

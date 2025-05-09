@@ -19,7 +19,7 @@ The following Backus-Naur form inductively defines the syntax of the λ-calculus
 $$M ::= x | \lambda x.M|\text{M M}$$
 
 A variable is a name for something that has to be supplied by the environment
-An abstraction stands for a function which, given an argument x, evaluates to the body M
+An abstraction stands for a function which, given an argument $x$, evaluates to the body M
 An application means the result of passing an argument N to the function M
 
 **Anything can be applied to anything**

@@ -82,7 +82,7 @@ To recover, the system chooses a random number k from {0..$2^n$} and delay $k \t
 - Performance issues lurking in the background
 
 ##### 10Base2
-- Instead of using thick, co-ax, use thin coax
+- Instead of using thick co-ax, use thin coax
 - It has a higher resistance, so limited to 185m
 - Instead of using transceivers, bring the coax to the computer
 - Cut the cable instead of drilling into it
@@ -160,7 +160,7 @@ It became popular in UK universities since boards were cheap and easy to build a
 
 #### Traffic Engineering
 ATM gave rise to a range of 'traffic engineering' policies
-The idea was to share out limited bandwidth "fairly", while providing a means to change for premium services
+The idea was to share out limited bandwidth "fairly", while providing a means to charge for premium services
 ##### Profiles
 - Constant Bit Rate
 	- Guarantees a fixed-speed point to point link

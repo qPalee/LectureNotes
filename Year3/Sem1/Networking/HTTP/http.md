@@ -7,7 +7,7 @@ Very old, before tcp and ip
 Used to move a level results around for some fucking reason
 Extremely tied to the ARPANET
 
-uucp is ass
+uucp is ass, also just doesn't work lmao
 
 ### Why HTTP?
 - Hypertext Transport Protocol
@@ -22,6 +22,7 @@ HTTP only used one TCP connection
 
 Lines are terminated with \r\n
 - Unix used \n, DOS convention is \r
+- Microsoft just had to be different
 
 ### HTTPS
 HTTP uses port 80

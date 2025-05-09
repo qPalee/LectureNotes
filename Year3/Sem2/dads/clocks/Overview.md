@@ -69,3 +69,17 @@ We have 2 requirements:
 - <span style="color:#00bfff">Accuracy</span>
 	- Ensures that logical clocks keep up with real time
 
+
+
+### Revision Tips
+Understand concepts like drift and skew
+Important that you know definitions
+- Diagrams
+- Set of clocks being well synchronised
+Reliable Time Sources
+- Requirements
+- Cristians + Berkeley Algorithm
+	- Berkeley is more general
+Not required to produce the definitional maths but might be easier
+- will also accept the explanation of the concept
+Logical Clocks - Event ordering

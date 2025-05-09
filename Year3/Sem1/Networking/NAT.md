@@ -1,4 +1,6 @@
- NAT
+# NAT
+<span style="color:#ff0000">These slides are on a canvas announcement for some fucking reason</span>
+
 Not enough IP addresses
 
 RFC1918 reserved some addresses for private use
@@ -64,3 +66,15 @@ Ian has them in his house, no reason for data centres to not have them
 He seemed VERY passionate about this
 You could tell from his voice
 
+### NAT for IPv6
+IPv6 doesn't require NAT due to there being more than enough addresses for everyone
+
+There are proposals for IPv6 NAT for 'security' but it's pointless
+
+#### NAT 'Security'
+NAT is basically a dodgy firewall
+
+There is little to no security benefits from it whatsoever
+
+UPnP (Universal Plug n Play) allows devices to communicate with a NAT point and request inbound NAT, bypassing any firewall
+- Dream for malware
