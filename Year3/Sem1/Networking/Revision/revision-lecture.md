@@ -33,7 +33,7 @@
 	- Recursive + Authoritative servers
 	- Caching
 - Higher layer Protocols
-	- Basic Operatio of HTTP + FTP
+	- Basic Operation of HTTP + FTP
 
 
 Last ditch strategy, yap about a topic you know a lot about and hope ian gives you extra marks
