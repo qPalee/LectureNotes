@@ -88,7 +88,7 @@ To recover, the system chooses a random number k from {0..$2^n$} and delay $k \t
 - Cut the cable instead of drilling into it
 - Can be mixed electrically and logically with 10Base5
 - Dominant networking of the 80s and early 90s
-	- Older building are still full of it
+	- Older buildings are still full of it
 
 ##### BaseT
 - Coax cable is still a pain

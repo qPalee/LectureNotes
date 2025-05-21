@@ -41,3 +41,6 @@ They learned some lessons from IPv4 when making reservations
 #### Routing Tables
 - In the long term the same complexity as IPv4 will be required 
 - $2^{61}$ would require $2^{21}$ TB, which isn't going to happen any time soon
+
+### SLAAC
+Stateless Address Auto-configuration
