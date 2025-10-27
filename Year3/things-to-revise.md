@@ -11,3 +11,7 @@
 # Crypto
 
 # Dependable
+
+
+
+There's a whole lot of things to revise here fr

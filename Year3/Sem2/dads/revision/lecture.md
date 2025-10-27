@@ -9,3 +9,4 @@ Vibes i got from the lecture
 - Broadcast Algos are 'worth your time'
 - Learning link properties are 'underrated'
 - Clocks were mentioned a couple times
+

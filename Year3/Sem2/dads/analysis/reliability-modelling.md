@@ -4,10 +4,10 @@ Mean Time to Failure
 
 Expected time a system will operate before first failure
 
-If there are $N$ identical systems which run correctly at $t=0$ but they all fail at time $t_0$ then MTTF has the formula
+If there are $N$ identical systems which run correctly at $t=0$ but they all fail at time $t_i$ then MTTF has the formula
 $$MTTF=\sum^{N}_{i=1}\frac{t_i}{N}$$
 In the continuous case, MTTF can be calculated using 
-$$MTTF=\int^{\infty}_{\infty}t \ f(t) \ dt$$ where $f(t)$ is the failure density function - derivative of unreliability
+$$MTTF=\int^{\infty}_{0}t \ f(t) \ dt$$ where $f(t)$ is the failure density function - derivative of unreliability
 
 In the case of $\lambda$, this can be reduced down to $$MTTF=\frac{1}{\lambda}$$
 ### MTTR
@@ -56,8 +56,9 @@ Generalisation of parallel systems
 Instead of at least one component working, we can assume M out of N components should work 
 
 The reliability of this is expressed as:
-$$P(S_t) = $$
-<span style="color:#ff0000">LEARN THIS FORMULA</span>
+$$P(S_t) = \sum^{N-M}_{i=0} \frac{N!}{(N-i)! \ i!}(R(t))^{N-i}(1-R(t)^i$$
+which can be rewritten as 
+$$P(S_t) = \sum^{N}_{i=M} {}^nC_i \cdot R(t)^i \cdot Q(t)^{N-i}$$
 
 #### Reality
 In reality, systems use a combination of all 3 of these

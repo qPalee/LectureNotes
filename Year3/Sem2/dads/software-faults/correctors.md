@@ -3,7 +3,7 @@ A corrector is a class of program components that imposes a given predicate on a
 
 In its simplest form, it can be represented as 
 ```
-if(not safety)
+if(not safety):
 	enforce predicate;
 ```
 
