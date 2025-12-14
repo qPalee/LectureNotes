@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year4/SSHS/Week7/embedded-systems.md",
+                "file": "Year4/HCI/lit-review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "embedded-systems"
+              "title": "lit-review"
+            }
+          },
+          {
+            "id": "a7a53a77d8f73d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year3/Sem1/PDPDI/principles-of-prigramming/type-systems/type-inference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "type-inference"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,13 +208,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26c1d7cddbca3621",
+  "active": "a7a53a77d8f73d4f",
   "lastOpenFiles": [
+    "Year3/Sem1/PDPDI/principles-of-prigramming/type-systems/simply-typed-lambda-calculus.md",
+    "Year3/Sem1/PDPDI/principles-of-prigramming/polymorphism/let-polymorphism.md",
+    "Year3/Sem1/PDPDI/principles-of-prigramming/polymorphism/system-f.md",
+    "Year3/Sem1/PDPDI/principles-of-prigramming/operational-semantics/small-step.md",
+    "Year3/Sem1/PDPDI/principles-of-prigramming/operational-semantics/big-step.md",
+    "Year3/Sem1/PDPDI/principles-of-prigramming/operational-semantics/evaluation-contexts.md",
+    "Year3/Sem1/PDPDI/principles-of-prigramming/lambda-calculus/Untyped.md",
+    "Year1/Sem1/MLFCS/Logic/Propositional/Equivalences.md",
+    "Year1/Sem1/MLFCS/Logic/Propositional/ClassicalReasoning.md",
+    "Year1/Sem1/MLFCS/Logic/Propositional/BasicConcepts.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/Semantics.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/Syntax.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/InferenceRules.md",
+    "Year1/Sem1/MLFCS/Logic/Predicate/Equivalences.md",
+    "Year4/SSHS/Week5/Testing.md",
+    "Year4/SSHS/Week5/Fuzzing.md",
     "Year4/SSHS/Week7/embedded-systems.md",
+    "Year4/HCI/lit-review.md",
     "Year4/SSHS/Week7",
     "Year3/Sem1/Security/Tom/Week2/advanced-memory-attacks.md",
-    "Year4/SSHS/Week5/Fuzzing.md",
-    "Year4/SSHS/Week5/Testing.md",
     "Year4/SSHS/Week4/Lecture.md",
     "Year4/SSHS/Week5",
     "Year2/Sem2/Security+Networks/Week4/RSA-Encryption.md",
@@ -214,24 +243,9 @@
     "Year4/SSHS/Week3",
     "Year4/Project/notes.md",
     "Year4/HCI/Week2",
-    "Year4/Project/beginner-lecture.md",
-    "Year4/SSHS/Week2/Lecture.md",
     "Year4/Project",
-    "Year4/SSHS/Week1/Lecture.md",
     "Year4/SSHS/Week2",
-    "Year4/HCI/Week1/Lecture.md",
     "Year4/HCI/Week1",
-    "Year3/things-to-revise.md",
-    "Year3/Sem1/PDPDI/principles-of-prigramming/lambda-calculus/Untyped.md",
-    "Year3/Sem1/PDPDI/principles-of-prigramming/Haskell/Week1/Lecture.md",
-    "Year3/Sem2/dads/revision/things-to-remember.md",
-    "Year3/Sem2/dads/revision/lecture.md",
-    "Year3/Sem2/dads/broadcast-algorithms/overview.md",
-    "Year3/Sem2/dads/consensus/floodset.md",
-    "Year3/Sem2/dads/consensus/consensus-problems.md",
-    "Year3/Sem2/dads/reliable-links/overview.md",
-    "Year3/Sem2/dads/reliable-links/failure-detection.md",
-    "Year3/Sem2/dads/analysis/hazards.md",
     "Year3/Sem1/Networking/tcp-udp/attachments/Pasted image 20250408150254.png",
     "Year3/Sem1/Networking/tcp-udp/attachments/Pasted image 20241119094924.png",
     "Year3/Sem1/Networking/tcp-udp/attachments/Pasted image 20241119090558.png",

@@ -39,7 +39,7 @@ May be embedded system on its own
 
 #### Processing Unit
 Microprocessor which is an integrated circuit which holds CPU and Peripheral/Memory interfaces
-- Low commplexity
+- Low complexity
 - Low power consumption
 
 ### Protocols

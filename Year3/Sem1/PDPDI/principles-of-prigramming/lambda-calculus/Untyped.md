@@ -113,3 +113,6 @@ $\textcolor{#00ffff}{\text{Right-apply}}$ - if $M \rightarrow_{\beta} N$ then $\
 $\textcolor{#00ffff}{\text{Lambda}}$ - if $M =_{\beta} N$ then $(\lambda x.M) \rightarrow_{\beta} (\lambda x.N)$
 
 ### Normal forms
+
+
+
