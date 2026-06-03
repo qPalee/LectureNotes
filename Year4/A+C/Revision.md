@@ -1,4 +1,4 @@
-# Things I need to look at 
+#Things I need to look at 
 
 ### Week 1
 - Definition of NP via certificates
@@ -84,3 +84,5 @@ Exact Exponential Time algorithms:
 - via DP
 Fixed-parameter tractable (FPT) algorithms
 - Algorithms that run in $f(k) \cdot n^{O(1)}$ time where $k$ is a parameter and $n$ is the input size
+
+test
