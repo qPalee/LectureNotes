@@ -41,7 +41,7 @@ In each instance of the while loop, we need to check every edge, which gives us 
 #### Correctness of Dijkstra's algorithm
 
 >[!info] Theorem
->Consider the set $S$ at any point during the algorithm. For each $u /in S$, the quantity $dist(u)$ stores the value of shortest $s \rightarrow u$ path
+>Consider the set $S$ at any point during the algorithm. For each $u \in S$, the quantity $dist(u)$ stores the value of shortest $s \rightarrow u$ path
 
 
 We prove this theorem by induction on $|S|$:

@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year4/A+C/Week5/Lecture.md",
+                "file": "Year4/A+C/Revision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture"
+              "title": "Revision"
             }
           }
         ],
@@ -197,16 +197,18 @@
   },
   "active": "b63c486585edbdcc",
   "lastOpenFiles": [
+    "Year4/A+C/LEARN THESE THINGS.md",
+    "Year4/A+C/Week1/Lecture.md",
+    "Year4/A+C/Revision.md",
     "Year4/A+C/Week4/Lecture.md",
+    "Year4/A+C/Week3/Lecture.md",
+    "Year4/A+C/Week2/Lecture.md",
     "Year4/A+C/Week5/Lecture.md",
     "Year4/A+C/Week5",
-    "Year4/A+C/Week3/Lecture.md",
     "Year4/A+C/Week4",
     "Year4/A+C/Week3/attachments/Pasted image 20260205134458.png",
     "Year4/A+C/Week3/attachments",
     "css.md",
-    "Year4/A+C/Week2/Lecture.md",
-    "Year4/A+C/Week1/Lecture.md",
     "Year4/A+C/Week3",
     "Year4/A+C/Week2",
     "Year4/A+C/Week1",
@@ -228,8 +230,6 @@
     "Year1/Sem1/MLFCS/Logic/Predicate/Semantics.md",
     "Year1/Sem1/MLFCS/Logic/Predicate/Syntax.md",
     "Year1/Sem1/MLFCS/Logic/Predicate/InferenceRules.md",
-    "Year1/Sem1/MLFCS/Logic/Predicate/Equivalences.md",
-    "Year4/SSHS/Week5/Testing.md",
     "Year4/SSHS/Week7",
     "Year4/SSHS/Week5",
     "Year4/SSHS/Week4",

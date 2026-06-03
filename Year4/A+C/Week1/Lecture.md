@@ -188,9 +188,9 @@ Proving the other way round is very similar
 
 
 ### $NP$-hardness
-
+6
 >[!info] Definition
->$L \subseteq \{ 0, 1 \}^* is **NP-hard** if for every $L' \in NP$ we have $L' \leq_p L$.
+>$L \subseteq \{ 0, 1 \}^{*}$ is NP-hard if for every $L' \in NP$ we have $L' \leq_p L$.
 >Furthermore, if $L \in NP$, then we say that $L$ is **NP-complete**
 
 NP-complete problems are the 'hardest' problems in NP. They are 'as hard' as any other NP problem
